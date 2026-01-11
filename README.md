@@ -10,6 +10,10 @@ The goal is to support a **simple, interpretable model** that can be easily depl
 
 ---
 
+![Car](/car.jpg)
+
+---
+
 ## 🧠 Problem Statement
 
 Given a dataset of customer demographics, driving history, and vehicle information, determine:
